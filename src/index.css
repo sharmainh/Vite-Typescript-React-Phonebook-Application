@@ -1,0 +1,4 @@
+/* we need to create an index.css file in SOURCE FOLDER (see tailwind website for steps/information on this). When pasting the below code the program may appear as if its mad/ something is wrong, everything is just fine. Its just recoognizing that this isnt CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
